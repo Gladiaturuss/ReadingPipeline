@@ -1,14 +1,14 @@
-numpy==1.23.1
-torch>=1.6.0
-torchvision>=0.7.0
-opencv-python==4.6.0.66
-tqdm==4.62.3
-scikit-learn==1.0.1
-matplotlib==3.5.0
-Pillow==8.4.0
-pyclipper==1.3.0
-shapely==1.8.0
-onnxruntime==1.13.1
-openvino==2022.2.0
+numpy
+torch
+torchvision
+opencv-python
+tqdm
+scikit-learn
+matplotlib
+Pillow
+pyclipper
+shapely
+onnxruntime
+openvino
 ocrmodel @ git+https://github.com/ai-forever/OCR-model.git
 segmmodel @ git+https://github.com/ai-forever/SEGM-model.git
